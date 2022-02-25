@@ -178,6 +178,7 @@
 - [AWS Tools for PowerShell](https://aws.amazon.com/powershell/) - Use an automation language instead of a programming langue -- `various lang`
 - [Azucar](https://github.com/nccgroup/azucar) - Multi-threaded plugin-based tool to help you assess the security of your Azure Cloud environment -- `PowerShell`
 - [AzCopy](https://github.com/Azure/azure-storage-azcopy) - CLI to copy data to and from containers and file shares in Azure Storage accounts -- `Golang`
+- [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) - Azure Governance Visualizer PowerShell script that captures Azure Governance related information -- `PowerShell`
 - [AzureHunter](https://github.com/darkquasar/AzureHunter) - Cloud forensics Powershell module to run threat hunting playbooks on data from Azure and O365 -- `PowerShell`
 - [Azure Arc](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-arc-for-cloud-solutions-architects/ba-p/2521928?WT.mc_id=modinfra-23500-thmaure) - Multi-cloud + on-prem control plane to centralize hybrid management, magical -- `cloud`
 - [Azure Cloud Guardrails](https://github.com/salesforce/cloud-guardrails) - Rapidly cherry-pick cloud security guardrails by generating Terraform files that create Azure Policy Initiatives, by Salesforce -- `Python pip`
@@ -1081,6 +1082,7 @@
 - [OpenBMP](https://github.com/openbmp) - BGP Monitoring Protocol collector with real-time monitoring, looking glass, analytics, etc -- `various lang`
 - [OpenOnload](http://openonload.org/) - User-land network stack that requires no modifications to applications to use by intercepting calls -- `C`
 - [OpenWRT](https://openwrt.org/) - Full Linux distro for consumer-grade routers, allows for tons of non-vendor customization -- `various lang`
+- [PeeringDB](https://www.peeringdb.com/) - Freely available, user-maintained, database of networks, and the go-to location for interconnection data -- `collection`
 - [PFQ](http://www.pfq.io/) - Framework that allows efficient packets capture/transmission, in-kernel functional processing, and packets steering across sockets/end-points -- `C`
 - [PowerAdmin](http://www.poweradmin.org/) - Simple Web UI for PowerDNS -- `PHP`
 - [Quagga](http://www.nongnu.org/quagga/) - Routing software suite, supports most routing protocols -- `C`
@@ -1500,6 +1502,7 @@
 - [authconv](https://github.com/authcov/authcov) - Web app authorization coverage scanning -- `JavaScript`
 - [Autopsy](https://sleuthkit.org/autopsy/) - Great for grabbing artifacts for DIFR -- `closed source`
 - [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) - Curated collection of honepots and honeypot resources -- `collection`
+- [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) - Azure Governance Visualizer PowerShell script that captures Azure Governance related information -- `PowerShell`
 - [Azucar](https://github.com/nccgroup/azucar) - Multi-threaded plugin-based tool to help you assess the security of your Azure Cloud environment -- `PowerShell`
 - [bettercap](https://www.bettercap.org/) - Swiss Army knife for 802.11, BlueTooth, and Ethernet networks reconnaissance and attacks -- `Golang`
 - [Brida](https://github.com/federicodotta/Brida) - Bridge between Burp Suite & Frida, lets you use and manipulate applications own methods while tampering the traffic exchanged between the applications and their back-end services/servers -- `various lang`
@@ -1527,6 +1530,7 @@
 - [Forefront Identity Manager](https://en.wikipedia.org/wiki/Forefront_Identity_Manager) - State-based multi-platform identity management, by Microsoft -- `closed source`
 - [Forensics Acquisition of Websites (FAW)](http://en.fawproject.com/) - Download and save social media sites, paid version has more features -- `closed source` `Windows`
 - [Forensics Wiki](http://www.forensicswiki.org/wiki/Main_Page) - Digital forensics wiki, tons of tools and information -- `wiki`
+- [Free Cybersecurity Services and Tools](https://www.cisa.gov/free-cybersecurity-services-and-tools) - A collection by CISA -- `collection`
 - [FTimes](https://sourceforge.net/projects/ftimes/) - System baselining and evidence collection tool -- `C`
 - [fwknop (FireWall KNock OPerator)](http://www.cipherdyne.org/fwknop/) - Single Packet Authorization (SPA), authoriation packet from you opens firewall rules so only you can get in -- `various lang`
 - [GGCR](https://github.com/google/ggrc-core) - GRC, by Google -- `Python`
@@ -1534,6 +1538,7 @@
 - [Grant](https://github.com/simov/grant) - OAuth proxy that supports >200 providers -- `various lang`
 - [GRR Rapid Response](https://github.com/google/grr) - Live forensics for incident response via a Python agent, dump memory, isolate host, snoop syscalls etc -- `Python`
 - [hashcat](https://hashcat.net/hashcat/) - World's fastest CPU password cracker / password recovery -- `C`
+- [HIPAA Security Risk Assessment Tool](https://www.healthit.gov/topic/privacy-security-and-hipaa/security-risk-assessment-tool) - Helps healthcare providers conduct a security risk assessment, results of the assessment are displayed in a report which can be used to determine risks in policies, processes and systems and methods to mitigate weaknesses -- `Windows`
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) - Dree malware analysis service that detects and analyzes unknown threats using a unique _Hybrid Analysis_ -- `in-browser`
 - [icebreaker](https://github.com/DanMcInerney/icebreaker) - Automates internal network attacks against Active Directory to deliver you plaintext credentials -- `various lang`
 - [Information Security Cheat Sheets and Checklists](https://zeltser.com/cheat-sheets/) - An assortment of IS checklists and cheat sheets, -- `collection`
@@ -1548,6 +1553,7 @@
 - [LDAP Password Hunter](https://github.com/oldboy21/LDAP-Password-Hunter) - Wraps features of getTGT.py (Impacket) and ldapsearch in order to look up for password stored in LDAP database -- `shell`
 - [LinEnum](https://github.com/rebootuser/LinEnum) - Enumerate a local Linux environment -- `shell`
 - [Lynis](https://github.com/CISOfy/lynis) - Auditing and hardening tool (CIS, PCI-DSS, etc), supports most Unix-like operating systems -- `shell`
+- [macOS Security Compliance Project](https://github.com/usnistgov/macos_security#readme) - By NIST -- `guide`
 - [Malcom](https://github.com/idaholab/Malcolm) - Easily deployable network analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs -- `various lang`
 - [Massscan](https://github.com/robertdavidgraham/masscan) - Scans in parallel and async for the fastest scans around -- `C`
 - [Metasploit](https://www.metasploit.com/) - Classic exploit framework -- `various lang`
@@ -1556,6 +1562,7 @@
 - [MITRE ATT&CK](https://attack.mitre.org/) - Knowledge base of adversary tactics and techniques based on real-world observations, used for threat modeling -- `collection`
 - [MobSF (Mobile Security Framework)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis -- `various lang`
 - [National Checklist Program](https://nvd.nist.gov/ncp/repository) - U.S. government repository of publicly available security checklists (or benchmarks) that provide detailed low level guidance on setting the security configuration of operating systems and applications -- `collection`
+- [National Cybersecurity Assessments and Technical Services (NCATS)](https://www.cisa.gov/uscert/resources/ncats) - Free vuln scans, phishing campaigns, architecture reviews, pen tests, and more by the CISA -- `service`
 - [National Software Reference Library (NSRL)](https://www.nist.gov/software-quality-group/national-software-reference-library-nsrl) - Large collection of diskprints from various software and malware -- `collection`
 - [National Vulnerability Database](https://nvd.nist.gov/) - Gotta catch em all -- `collection`
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool (NFAT) for parsing PCAP files, paid version is worth it -- `open and closed source`
@@ -2096,6 +2103,7 @@
 - [AutoIT](https://www.autoitscript.com/site/) - Scriptable GUI input for Windows (think AutoHotKey) but with a BASIC-like syntax -- `closed source`
 - [Backstage](https://github.com/backstage/backstage) - Unifies all your infrastructure tooling, services, and documentation with a single, consistent UI so developers can easily provision and view their resources -- `various lang`
 - [Bypass Paywalls](https://github.com/iamadamdev) - Shhh -- `Firefox` `Chrome`
+- [Bypass Paywalls](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) - Better maintained but Chrome only -- `Chrome`
 - [c4builder](https://adrianvlupu.github.io/C4-Builder/#/?id=overview) - Lightweight nodejs cli tool for building, maintaining and sharing a software architecture project using only text, combines PlantUML C4Model, Markdown, and more -- `various lang`
 - [CheapCharts](https://www.cheapcharts.info/) - Historic price trends for digital movies and TV on iTunes, Vudu, Amazon Prime, and similar -- `collection`
 - [Clone Wars](https://github.com/GorvGoyl/Clone-Wars) - Open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Trello, Whatsapp, Youtube, etc -- `various lang`
@@ -2247,11 +2255,11 @@
 - [Azure AD - Attack and Defense Playbook](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) - Collection of various common attack scenarios on Azure Active Directory and how they can be mitigated or detected -- `collection`
 - [Azure Arc Jumpstart](https://azurearcjumpstart.io/) - Learn Azure Arc in no time -- `tutorial`
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/) - Guidance for architecting solutions on Azure using established patterns and practices -- `collection`
+- [Azure Certification Materials](https://github.com/johnthebrit/CertificationMaterials) - By John Savil -- `collection`
 - [Azure Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/) - Collection of documentation, implementation guidance, best practices, and tools that are proven guidance from Microsoft designed to accelerate your cloud adoption journey -- `collection`
 - [Azure Cloud Adoption Framework - Enterprise-scale Architecture](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/architecture) - An excellent reference pattern -- `article`
 - [Azure Data Security](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/data-security) - More topics in the left sidebar -- `article`
 - [Azure DevOps Labs](https://azuredevopslabs.com/) - Self-paced -- `training`
-- [Azure DevOps Master Class](https://github.com/johnthebrit/DevOpsMC) - Videos and hands on, by John Savill -- `collection`
 - [Azure in Bullet Points](https://github.com/undergroundwires/Azure-in-bullet-points) - Super fast way to learn Azure and prep for certifications at the same time -- `collection`
 - [Azure Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY) - Hands on free training by John Savill -- `training`
 - [Azure Microsoft Cloud Workshop (MCW)](https://microsoftcloudworkshop.com/) - Customer-ready content to host workshops that foster cloud learning and adoption, by Microsoft -- `training`
@@ -2484,6 +2492,7 @@
 - [Safari Books Online](https://www.oreilly.com/) - Non-student ACM members get a full year of access for $99 [buy a membership here](https://www.acm.org/membership/membership-options) -- `collection`
 - [SANS Posters and Cheat Sheets](https://www.sans.org/posters/) - Official collection -- `collection`
 - [Scrum Guide](https://www.scrumguides.org/) - Explains Scrum in a concise and straightforward way in about 10 pages, by the creators -- `article`
+- [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/publications/detail/sp/800-218/final) - By NIST, released Feb 2022 -- `collection`
 - [Security 101 for SaaS Startups](https://github.com/forter/security-101-for-saas-startups) - Excellent checklist and guide in easy to understand terms for non-infrastructure people -- `collection`
 - [Security Engineering 3rd Edition](https://www.cl.cam.ac.uk/~rja14/book.html) - Free concise ebook, updated 2020 -- `book`
 - [Security Engineering at Google: My Interview Study Notes](https://github.com/gracenolan/Notes/blob/master/interview-study-notes-for-security-engineering.md) - Browsable bullet points -- `collection`
