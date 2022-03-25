@@ -1614,7 +1614,7 @@
 - [Spiderfoot](http://www.spiderfoot.net/) - Automate the process of gathering intelligence about a given target -- `Python`
 - [SubBrute](https://github.com/TheRook/subbrute) - Subdomain enumeration tool for penetration testers -- `Python`
 - [sudosh2](https://github.com/squash/sudosh2) - Records all keystrokes and output and can play back the session as just like a VCR -- `C`
-- [SuperTokens](https://supertokens.io/) - OSS alternative to Auth0, Firebase Auth and AWS Cognito -- `Java`
+- [SuperTokens](https://supertokens.com/) - OSS alternative to Auth0, Firebase Auth and AWS Cognito -- `Java`
 - [Suricata](https://suricata.io/) - IDS + IPS + NSM + PCAP processing all in one -- `various lang`
 - [SWORD Dropbox](https://medium.com/@tomac/a-15-openwrt-based-diy-pen-test-dropbox-26a98a5fa5e5) -- $15 OpenWRT + Pi based DIY disposable pen-test tool -- `various lang`
 - [symon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing -- `XML!!!!` `Windows`
